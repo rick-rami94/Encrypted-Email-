@@ -1,9 +1,4 @@
-
-█▀▀ █▄░█ █▀▀ █▀█ █▄█ █▀█ ▀█▀ █▀▀ █▀▄
-██▄ █░▀█ █▄▄ █▀▄ ░█░ █▀▀ ░█░ ██▄ █▄▀
-
-█▀▀ █▀▄▀█ ▄▀█ █ █░░
-██▄ █░▀░█ █▀█ █ █▄▄
+Encrypted Email
 
 This project contains a python program that will send an ecrypted email to the specified email address.
 The script requires the following information:
